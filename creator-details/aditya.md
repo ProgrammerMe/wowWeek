@@ -11,7 +11,7 @@ Play store link: https://play.google.com/store/apps/details?id=com.raptor.inc
 Insta profile: [https://www.instagram.com/super_raptor911/](https://www.instagram.com/super_raptor911/)
 
 
-photo: ![](images/aditya.jpg)
+photo: ![](images/aditya.jpg |250x250)
 
 
 Tech stack used:  GoDot 
