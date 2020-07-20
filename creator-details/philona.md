@@ -8,7 +8,7 @@ Project catagory: Game
 Insta profile: [https://www.instagram.com/_.p0tterhe4d.__/](https://www.instagram.com/_.p0tterhe4d.__/)
 
 
-photo: ![image](images/philona.jpeg = 250x250)
+photo: ![image](images/philona.jpeg)
 
 
 SweetMemoryBlast-Game : This is a game application that is created in Flutter with good UI designs. The user have to match the same pics by remembering the correct positions of the pics. The clicks are counted. More the clicks, less is the memory power of the user.
