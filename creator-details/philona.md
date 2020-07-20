@@ -8,7 +8,7 @@ Project catagory: Game
 Insta profile: [https://www.instagram.com/_.p0tterhe4d.__/](https://www.instagram.com/_.p0tterhe4d.__/)
 
 
-photo: ![image](images/aditya.jpg = 250x250)
+photo: ![image](images/philona.jpeg = 250x250)
 
 
 SweetMemoryBlast-Game : This is a game application that is created in Flutter with good UI designs. The user have to match the same pics by remembering the correct positions of the pics. The clicks are counted. More the clicks, less is the memory power of the user.
@@ -21,6 +21,7 @@ What's your goal behind working for this project? : Inspired from the mini memor
 
 
 How was your experience after completing the project? Did you get to learn anything new?? :  After completing this project, I became more confident in working with flutter and learned some basics of UI designing and I wish to upgrade this project by adding more features to it.
+
 
 What are your future goals ? Which is technology stack you are looking forward to work with ?
 I wish to lay my hands on Data Science and give more focus on it in future. In Addition to it, I like to develop my existing web development and Flutter Development skills to its advance levels.
